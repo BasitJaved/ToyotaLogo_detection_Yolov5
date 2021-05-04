@@ -4,4 +4,4 @@ After downloading data from Google, annotations are done using annotation tool o
 After annotating all the data it is exported in formate supported by model.
 Model is trained for 500 epochs with a batch size of 64.
 
-![Training_Sample1](./images/train/train0.jpg)
+![](images/train/train0.jpg)
