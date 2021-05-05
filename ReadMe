@@ -3,5 +3,3 @@ Data is scrapped from google.
 After downloading data from Google, annotations are done using annotation tool of roboflow, available on ther websites.
 After annotating all the data it is exported in formate supported by model.
 Model is trained for 500 epochs with a batch size of 64.
-
-<img src="https://github.com/BasitJaved/ToyotaLogo_detection_Yolov5/blob/main/images/train/train0.jpg">
