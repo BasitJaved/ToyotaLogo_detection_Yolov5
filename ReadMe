@@ -1,7 +1,0 @@
-This repositor contain IPython Notebook for training YOLOv5 on Google Colab, the notebook is downloaded from roboflow's models available on their website.
-Data is scrapped from google.
-After downloading data from Google, annotations are done using annotation tool of roboflow, available on ther websites.
-After annotating all the data it is exported in formate supported by model.
-Model is trained for 500 epochs with a batch size of 64.
-
-<img src="/images/train/train0.jpg">
