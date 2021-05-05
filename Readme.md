@@ -16,9 +16,9 @@ Model is trained for 500 epochs with a batch size of 64.
 
 **Prediction 1**
 
-<img src="/images/prediction/Pred1.jpg" width = 500>    <img src="/images/prediction/Pred1_1.jpg" width = 500>
+<img src="/images/prediction/Pred1.jpg" width = 450>    <img src="/images/prediction/Pred1_1.jpg" width = 450>
 
 
 **Prediction 2**
 
-<img src="/images/prediction/Pred2.jpg" width = 500>    <img src="/images/prediction/Pred2_1.jpg" width = 500>
+<img src="/images/prediction/Pred2.jpg" width = 450>    <img src="/images/prediction/Pred2_1.jpg" width = 450>
